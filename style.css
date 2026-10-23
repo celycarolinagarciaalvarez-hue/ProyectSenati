@@ -29,7 +29,7 @@ a {
     justify-content: space-between;
     align-items: center;
     padding: 20px 60px;
-    background-color: #14213d;
+    background-color: #1f3b2d;
     border-bottom: 3px solid #b08d57;
 }
 
@@ -43,7 +43,7 @@ a {
 
 .menu a {
     margin-left: 30px;
-    font-size: 15px;
+    font-size: 16px;
     letter-spacing: 2px;
     text-transform: uppercase;
     color: #e8dfcf;
